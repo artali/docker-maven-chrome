@@ -1,5 +1,9 @@
 # markhobson/maven-chrome
 
+For of: 
+https://github.com/markhobson/docker-maven-chrome
+
+
 Docker image for Java automated UI tests.
 
 Includes:
